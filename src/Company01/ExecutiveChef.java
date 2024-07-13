@@ -53,7 +53,6 @@ public class ExecutiveChef extends Person {
             bb.executive();
         }
     }
-    public void test(){}
 
 }
 
